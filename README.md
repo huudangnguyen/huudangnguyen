@@ -1,6 +1,7 @@
-# Prediction_the_LandHouse_value
+# Hi, I'm Dang Nguyen
 
+![IMG_20220422_095824](https://user-images.githubusercontent.com/81134060/169635349-6d41aff9-b80a-4cf6-a0f6-10daf8e3004f.jpg)
 
-# Dự án đang trong quá trình hoàn thành, dự kiến giữa tháng 5
-- Dự án xây dựng một trang web nhầm giúp khách hàng định giá nhà đất tự động (Sử dụng Django)
-- Mô hình hồi quy áp dụng: Hồi quy tuyến tính (Linear Regression)
+# Contact
+- email: huudang0206@gmail.com
+
